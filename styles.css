@@ -13,11 +13,11 @@ body {
 h2 {
     text-align: center;
     color: white;
-    background-color: purple;
+    background-color: rgb(80, 7, 80);
 }
   
 header {
-    background-color: purple;
+    background-color: rgb(80, 7, 80);
     color: white;
     text-align: center;
     padding: 15px;
@@ -25,7 +25,7 @@ header {
 }
 
 footer {
-    background-color: purple;
+    background-color: rgb(80, 7, 80);
     color: white;
     text-align: center;
     padding: 15px;
