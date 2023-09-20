@@ -7,14 +7,29 @@ body {
     min-height: 100vh;
     background-color: black;
     color: white;
+    background-image: url("dollarbills.jpg");
   }
+
+h2 {
+    text-align: center;
+    color: white;
+    background-color: rgb(80, 7, 80);
+}
   
-header, footer {
-    background-color: purple;
+header {
+    background-color: rgb(80, 7, 80);
     color: white;
     text-align: center;
     padding: 15px;
     flex-shrink: 0;
+}
+
+footer {
+    background-color: rgb(80, 7, 80);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    flex-grow: 1;
 }
 
 /* Interactive Card */
